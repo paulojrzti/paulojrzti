@@ -1,7 +1,7 @@
 <h1 align="center">👋🏽 Olá, eu sou o Paulo Júnior!</h1>
 
 <p align="center">
-  Desenvolvedor Front-End apaixonado por criar interfaces funcionais, responsivas e com boa usabilidade.
+  Desenvolvedor Front-End criador de interfaces funcionais, responsivas e com boa usabilidade.
 </p>
 
 ---
