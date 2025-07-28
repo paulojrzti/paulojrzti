@@ -49,16 +49,16 @@
 
 ### 🌐 Vamos nos conectar?
 
-- 💼 [Meu LinkedIn](https://www.linkedin.com/in/paulojuniordev/)
+- 💼 [Meu LinkedIn](https://www.linkedin.com/in/paulojrzti/)
 - 📄 [Currículo PDF](./PauloJunior_DesenvolvedorFrontEnd-1.pdf)
-- 💌 Me envie um e-mail: **paulojuniordev@gmail.com**
+- 💌 Me envie um e-mail: **paulojrzti@gmail.com**
 
 ---
 
 <details>
 <summary>📚 Atualmente estudando...</summary>
 
-- JavaScript e TypeScript avançado  
+- JavaScript e TypeScript   
 - React com Next.js  
 - UI/UX Design com Figma  
 - Projetos práticos para portfólio profissional  
